@@ -18,9 +18,9 @@ Not supported tetr.io plus and never be added
 
 - Electron  
 ![tetr.io cpu and memory usage](./tetr.io.png)  
-- Edge
+- Edge  
 ![edge browser cpu and memory usage](./edge.png)
-- Tauri
+- Tauri  
 ![tauri cpu and memory usage](./tauri.png)
 
 ## How to get a binary
