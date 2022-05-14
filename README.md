@@ -12,3 +12,23 @@ Not supported tetr.io plus and never be added
 ![edge browser cpu and memory usage](./edge.png)
 - Tauri
 ![tauri cpu and memory usage](./tauri.png)
+
+## How to get a binary
+
+You likely need to download them from github [release page](https://github.com/timelessnesses/tetr.io-tauri/releases) or [build one yourself](#build)
+
+## Build
+
+Install node.js and follow this guide of [how to setup tauri build with your os](https://tauri.studio/v1/guides/getting-started/prerequisites) then run this command:
+
+```bash
+$ npm install
+```
+
+Then run this command:
+
+```bash
+$ npx tauri build
+```
+
+It should spit  binary src-tauri/target/release/tetr-io-tauri.exe

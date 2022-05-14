@@ -1,5 +1,5 @@
 {
-  "name": "tetr.io tauri",
+  "name": "tetr-io-tauri",
   "scripts": {
     "tauri": "tauri"
   },
