@@ -4,6 +4,16 @@ This is tetr.io but it is built in tauri for lower CPU/memory usage. (Not offici
 Cosinder install official binary from tetr.io  
 Not supported tetr.io plus and never be added
 
+## Pros and cons
+
+### Pro
+
+- It consume less resource
+- Smaller binary size
+### Con
+
+- It is somehow very laggy in tetr.io for some reasons
+
 ## Benchmark
 
 - Electron  
